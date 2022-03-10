@@ -1,20 +1,20 @@
 # AmazonSeleniumTest
 
-Test Adımları
+Test Steps
 
--Amazon sayfasına git
+-navigate to https://www.amazon.com.tr/
 
--samsung galaxy m12 araması yap
+-search 'samsung galaxy m12' 
 
--İlk çıkan ürüne tıkla
+-click a first product
 
--Renk seç
+-choose a color
 
--Bellek, renk, fiyat ve stok durumlarını yazdır
+-print size, color, price and stock information of selected product
 
--Sepete ekle
+-add to cart
 
--Sepette 1 ürün olduğunu kontrol
+-verify that amount of product in the cart is 1
 
 
 
